@@ -7,7 +7,7 @@ We are a group of people passionate about the decentralized web and excited to l
 ## Organizers
 
 Our chapter's leadership team includes:
-* [NAME] ([@kishansagathiya](https://github.com/kishansagathiya))
+* Kishan Sagathiya ([@kishansagathiya](https://github.com/kishansagathiya))
 
 ## Code of Conduct
 
