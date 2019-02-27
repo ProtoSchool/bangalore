@@ -7,8 +7,8 @@ Welcome to the Bangalore chapter of [ProtoSchool](https://proto.school)!
 We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
 ## First things First
-- Join [ProtoSchool meetup group](https://www.meetup.com/Decentralized-Web-ProtoSchool-Meetup/) to get updates on upcoming meetup 
-
+- Join mailing list of ProtoSchool Bangalore [here](https://goo.gl/forms/lSoxDy50ZoBGDjvN2)
+<!-- Join [ProtoSchool meetup group](https://www.meetup.com/Decentralized-Web-ProtoSchool-Meetup/) to get updates on upcoming meetup --> 
 - Watch this repo
 
 ## What can you do
