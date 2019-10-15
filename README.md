@@ -26,6 +26,13 @@ Our chapter's leadership team includes:
 
 We are looking for more organizers for this chapter. If you want to help organize the chapter(you are most welcome to do so) contact Kishan.
 
+## Events
+
+### Upcoming
+- [IPFS WorkShop](https://www.meetup.com/Distributed-Web-and-Protoschool-Bangalore/) (TODO: ADD_DATE)
+
+Introduction to IPFS and Decentralized Web for complete beginners. Plus Some IPFS Swag 😎
+
 ## Code of Conduct
 
 In the interest of fostering an open and welcoming environment, we as
