@@ -8,7 +8,7 @@ We are a group of people passionate about the decentralized web and excited to l
 
 ## First things First
 - Join mailing list of ProtoSchool Bangalore [here](https://goo.gl/forms/lSoxDy50ZoBGDjvN2)
-<!-- Join [ProtoSchool meetup group](https://www.meetup.com/Decentralized-Web-ProtoSchool-Meetup/) to get updates on upcoming meetup --> 
+- Join [ProtoSchool Bangalore meetup group](https://www.meetup.com/Distributed-Web-and-Protoschool-Bangalore/) to get updates on upcoming meetup
 - Watch this repo
 
 ## What can you do
@@ -17,14 +17,16 @@ We are a group of people passionate about the decentralized web and excited to l
 - Discuss your issue(doubts related to distributed web) on this repo (or [IPFS forum](https://discuss.ipfs.io/)). Just create an issue. Issues are cheap.
 - Attend our meetups
 
- If you want to provide space for any month's ProtoSchool meetup, contact Kishan or comment on this [issue](https://github.com/ProtoSchool/bangalore/issues/4)
+ If you want to provide space for any month's ProtoSchool meetup, contact one of the organizers or comment on this [issue](https://github.com/ProtoSchool/bangalore/issues/4)
 
 ## Organizers
 
 Our chapter's leadership team includes:
 * Kishan Sagathiya ([EMail](mailto:kishansagathiya@gmail.com), [GitHub](https://github.com/kishansagathiya), [Twitter](http://twitter.com/kishansagathiya))
+* Vaibhav Saini ([EMail](mailto:vasa.develop@gmail.com), [GitHub](https://github.com/vasa-develop), [Twitter](http://twitter.com/vasa_develop))
+* Ganesh Prasad Kumble ([EMail](mailto:reachganeshji@gmail.com), [GitHub](https://github.com/0zAND1z), [Twitter](http://twitter.com/0zAND1z))
 
-We are looking for more organizers for this chapter. If you want to help organize the chapter(you are most welcome to do so) contact Kishan.
+If you want to help organize the chapter(you are most welcome to do so) contact Kishan, Vaibhav or Ganesh.
 
 ## Code of Conduct
 
