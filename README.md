@@ -22,11 +22,10 @@ We are a group of people passionate about the decentralized web and excited to l
 ## Organizers
 
 Our chapter's leadership team includes:
-* Kishan Sagathiya ([EMail](mailto:kishansagathiya@gmail.com), [GitHub](https://github.com/kishansagathiya), [Twitter](http://twitter.com/kishansagathiya))
 * Vaibhav Saini ([EMail](mailto:vasa.develop@gmail.com), [GitHub](https://github.com/vasa-develop), [Twitter](http://twitter.com/vasa_develop))
 * Ganesh Prasad Kumble ([EMail](mailto:reachganeshji@gmail.com), [GitHub](https://github.com/0zAND1z), [Twitter](http://twitter.com/0zAND1z), [IPFS Forum](https://discuss.ipfs.io/u/0zand1z/))
 
-If you want to help organize the chapter(you are most welcome to do so) contact Kishan, Vaibhav or Ganesh.
+If you want to help organize the chapter(you are most welcome to do so) contact Vaibhav or Ganesh.
 
 ## Events
 

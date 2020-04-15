@@ -67,7 +67,7 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the chapter organizers: **Kishan Sagathiya** **[(Kishan's Email)](mailto:kishansagathiya@gmail.com)** or **Vaibhav Saini** **[(Vaibhav's Email)](mailto:vasa.develop@gmail.com)** or **Ganesh Prasad Kumble** **[(Ganesh's Email)](mailto:reachganeshji@gmail.com)**. All complaints 
+reported by contacting the chapter organizers: **Vaibhav Saini** **[(Vaibhav's Email)](mailto:vasa.develop@gmail.com)** or **Ganesh Prasad Kumble** **[(Ganesh's Email)](mailto:reachganeshji@gmail.com)**. All complaints 
 will be reviewed and investigated and will result in a response that is deemed
 necessary and appropriate to the circumstances. The chapter organizing team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
